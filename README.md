@@ -7,8 +7,8 @@ Includes both the authentication and secure servers
 Install [Go](https://go.dev/doc/install) and [git](https://git-scm.com/downloads), then clone and enter the repository
 
 ```bash
-$ git clone https://github.com/PretendoNetwork/super-smash-bros-3ds
-$ cd super-smash-bros-3ds
+$ git clone https://github.com/SamtendoNetwork/ssb-3ds
+$ cd ssb-3ds
 ```
 
 ### Compiling using `go`
